@@ -123,7 +123,7 @@ The editor uses a structured layout similar to classic DOS applications:
 ## 📜 License
 
 MIT License
-“You can use this code however you want — just give credit and don’t blame me if something breaks.”
+“You can use this code however you want — just give credit to aimutt.com and don’t blame me if something breaks.”
 ---
 
 ## 🧠 Inspiration
